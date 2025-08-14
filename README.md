@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Natalie 👋
+Aspiring Software Engineer | Computer Science student at University of South Florida
 
-<!--
-**nataliea0316/nataliea0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🔧 Technician @ Apple
+- 🎨 Love blending creativity with technology
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- Smart plant watering system with AI predictions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/natalie-aponte-533659195/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-green)](https://natalieaponte.com)
