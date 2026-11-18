@@ -2,7 +2,7 @@
 Computer Science student at University of South Florida
 
 ## 🌟 About Me
--Intern at Coke Florida
+- Intern at Coke Florida
 - 🔧 Previous Technician @ Apple
 - 🎨 Love blending creativity with technology
 
